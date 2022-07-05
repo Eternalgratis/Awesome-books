@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Awsome Books
+# Awesome Books
 
 > a Web app that store book information like title and author
 
